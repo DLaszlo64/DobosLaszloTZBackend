@@ -1,0 +1,28 @@
+{
+  "name": "doboslaszlotzbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DLaszlo64/DobosLaszloTZBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DLaszlo64/DobosLaszloTZBackend/issues"
+  },
+  "homepage": "https://github.com/DLaszlo64/DobosLaszloTZBackend#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6",
+    "nodemon": "^3.1.14"
+  }
+}
